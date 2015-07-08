@@ -1,0 +1,9 @@
+64475c3876495a2f493be10022f489e6 *DESCRIPTION
+46f7d828a84834b86ffc4f82622db1fa *LICENSE
+0156b4ffcb4b539358e38f6967461c09 *NAMESPACE
+18b4fb9ec4ee0664bf3824fd754e4fb6 *R/gdrate.R
+4ba3934b9f48eb4d54cb3e793596b232 *data/sampleData.rda
+3c933baf1e8314d4c8d4d396a0e1ccd8 *man/gdrate.Rd
+68cd5b248831766d4c74c9af2e7df062 *man/sampleData.Rd
+45f1f51faa5be1bc6187e576d8d4172d *tests/testthat.R
+40bbfcfa45f9943b2e176615f01b1800 *tests/testthat/test.R
