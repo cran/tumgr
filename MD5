@@ -1,9 +1,10 @@
-64475c3876495a2f493be10022f489e6 *DESCRIPTION
+236189aa0579f70e8c8b0a97d3e76070 *DESCRIPTION
 46f7d828a84834b86ffc4f82622db1fa *LICENSE
 0156b4ffcb4b539358e38f6967461c09 *NAMESPACE
-18b4fb9ec4ee0664bf3824fd754e4fb6 *R/gdrate.R
+e9bd04199480afd1115549f43826b66c *NEWS
+823d6d5d5e7e321572dbcaa901e47ad4 *R/gdrate.R
 4ba3934b9f48eb4d54cb3e793596b232 *data/sampleData.rda
-3c933baf1e8314d4c8d4d396a0e1ccd8 *man/gdrate.Rd
+fc8d273060d2e9c347fcbb9a3a7ff3f1 *man/gdrate.Rd
 68cd5b248831766d4c74c9af2e7df062 *man/sampleData.Rd
 45f1f51faa5be1bc6187e576d8d4172d *tests/testthat.R
-40bbfcfa45f9943b2e176615f01b1800 *tests/testthat/test.R
+bbcd032b19f181540c51c773942b2c57 *tests/testthat/test.R
