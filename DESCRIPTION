@@ -1,10 +1,10 @@
 Package: tumgr
 Type: Package
 Title: Tumor Growth Rate Analysis
-Version: 0.0.3
-Date: 2015-07-20
+Version: 0.0.4
+Date: 2016-02-03
 Author: Julia Wilkerson
-Maintainer: Julia Wilkerson <wilkersj@mail.nih.gov>
+Maintainer: Julia Wilkerson <jmwilkers@outlook.com>
 URL: https://wilkersj.shinyapps.io/tumgrShiny,
         http://wilkersj.github.io/tumgr,
         https://github.com/wilkersj/tumgr
@@ -14,6 +14,6 @@ LazyData: true
 License: MIT + file LICENSE
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2015-08-05 20:00:49 UTC; Julia
+Packaged: 2016-02-04 00:23:48 UTC; Julia
 Repository: CRAN
-Date/Publication: 2015-08-06 07:16:10
+Date/Publication: 2016-02-04 11:36:54
